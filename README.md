@@ -1,2 +1,2 @@
-# coursera-test
-coursera-test repository
+# mod2_solution
+mod2_solution repository
